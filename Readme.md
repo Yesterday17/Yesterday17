@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I'm%20Yesterday17.%3BSystems%20Architect%3A%20Rust%20%2526%20Dart.%3BMaintainer%3A%20Project%20Anni%20%257C%20iori-rs.%3B%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F%20%E3%81%9D%E3%81%AE%E7%9B%AE%E3%81%A0%E3%82%8C%E3%81%AE%E7%9B%AE%EF%BC%9F&font=Fira+Code&center=true&width=500&height=50&color=ebbcba&background=00000000&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I'm%20Yesterday17.%3BSystems%20Architect%3A%20Rust%20%26%20Dart.%3BMaintainer%3A%20Project%20Anni%20%7C%20iori-rs.%3B%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F%20%E3%81%9D%E3%81%AE%E7%9B%AE%E3%81%A0%E3%82%8C%E3%81%AE%E7%9B%AE%EF%BC%9F&font=Fira+Code&center=true&width=500&height=50&color=ebbcba&background=00000000&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
 
 <p>
 <a href="https://blog.mmf.moe">
@@ -21,19 +21,10 @@ Based in Shanghai (UTC+8) / Tokyo (UTC+9).<br />
 
 <br />
 
-<table border="0" width="100%">
-<tr>
-<td width="55%" align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Yesterday17&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&include_all_commits=true" alt="Yesterday17's Stats" />
-</td>
-<td width="45%" align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yesterday17&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&exclude_repo=blog,docs,Yesterday17" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Yesterday17&theme=rose_pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Yesterday17&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&include_all_commits=true" alt="Yesterday17's Stats" />
 </div>
 
 <br />
